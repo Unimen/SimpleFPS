@@ -1,5 +1,5 @@
 # UnityZombieFps
-My most advance project so far in Unity. Updates weekly :-)
+My most advance project so far in Unity :-)
 
 Created in three main purpose:
 -Help me better understand Unity, C#
